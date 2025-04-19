@@ -2,7 +2,7 @@
 Hola, soy Luciano Vázquez. Estudio Ingeniería en Sistemas en la UTN de Córdoba y me formé como desarrollador Frontend en el bootcamp de Nucba. Me apasiona la tecnología, el diseño web y crear experiencias interactivas que sumen valor real a los proyectos.
 
 
-[![linkedin badge](https://img.shields.io/badge/tanyagupta0201-30302f?style=flat&logo=linkedin)]((https://www.linkedin.com/in/luciano-vazquez-344611289/))
+[![linkedin badge](https://img.shields.io/badge/luciano-vazquez-344611289/)]((https://www.linkedin.com/in/luciano-vazquez-344611289/))
 [![Gmail Badge](https://img.shields.io/badge/tanyagupta.pg@gmail.com-30302f?style=flat&logo=Gmail&logoColor=red)](mailto:lucianovazquez.lv15@gmail.com)
 <img src="https://komarev.com/ghpvc/?username=tanyagupta0201&style=plastic" />
 
